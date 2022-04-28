@@ -53,6 +53,6 @@ If you want to learn more about building native executables, please consult http
 
 ### RESTEasy JAX-RS example
 
-REST is easy peasy sammy squeezy with this Hello World RESTEasy resource.
+REST is easy peasy Sammy Squeezy with this Hello World RESTEasy resource IF IT EVER COMMITS.
 
 [Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
